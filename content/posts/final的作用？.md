@@ -2,7 +2,6 @@
 title: "Final的作用？"
 date: 2022-03-10T16:52:18+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 在Java中，final关键字可以用来修饰类、方法和变量（包括成员变量和局部变量）。

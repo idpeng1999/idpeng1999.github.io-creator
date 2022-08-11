@@ -2,7 +2,6 @@
 title: "Sql视图"
 date: 2022-05-05T23:02:00+08:00
 draft: false
-tags: [java]
 categories: [MySQL知识]
 ---
 ## 什么是视图？

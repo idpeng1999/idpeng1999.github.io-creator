@@ -2,8 +2,7 @@
 title: "Linux常用命令行"
 date: 2021-09-09T17:07:23+08:00
 draft: false
-tags: [java]
-categories: [java知识]
+categories: [Linux]
 ---
 ## ls命令
    list 的缩写,可以查看文件权限(包括目录、文件夹、文件权限),查看目录信息。

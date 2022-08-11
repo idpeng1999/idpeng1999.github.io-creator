@@ -1,8 +1,7 @@
 ---
 title: "SpringMVC"
 date: 2022-03-12T18:30:26+08:00 
-draft: false 
-tags: [java]
+draft: false
 categories: [java知识]
 ---
 

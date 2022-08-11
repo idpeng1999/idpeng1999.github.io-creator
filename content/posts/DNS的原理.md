@@ -2,8 +2,7 @@
 title: "DNS的原理"
 date: 2022-03-14T15:46:42+08:00
 draft: false
-tags: [java]
-categories: [java知识]
+categories: [网络]
 ---
 ## DNS
 

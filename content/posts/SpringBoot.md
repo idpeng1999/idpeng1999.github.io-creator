@@ -2,7 +2,6 @@
 title: "SpringBoot"
 date: 2022-03-12T19:07:56+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 ## 什么是 SpringBoot？

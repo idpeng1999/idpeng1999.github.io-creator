@@ -2,7 +2,6 @@
 title: "Java面向对象三大特性封装继承多态"
 date: 2022-03-11T18:39:38+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 ### 封装

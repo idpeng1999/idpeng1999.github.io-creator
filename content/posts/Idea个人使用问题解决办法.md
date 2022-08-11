@@ -2,7 +2,6 @@
 title: "Idea个人使用问题解决办法"
 date: 2021-11-02T16:35:38+08:00
 draft: false
-tags: [问题]
 categories: [各种问题]
 ---
 **idea版本2021.2.1**

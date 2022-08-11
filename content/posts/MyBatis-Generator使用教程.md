@@ -1,9 +1,8 @@
 ---
 title: "MyBatis Generator使用教程"
 date: 2022-04-08T22:09:30+08:00 
-draft: false 
-tags: [教程]
-categories: [java教程]
+draft: false
+categories: [工具教程]
 ---
 
 **Mybatis Generator（MBG）的作用 ：根据库中的表自动生成dao、mapper映射文件、实体类**

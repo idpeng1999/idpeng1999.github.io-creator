@@ -2,7 +2,6 @@
 title: "接口和抽象类有什么区别or联系？"
 date: 2022-03-10T16:49:45+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 * Interface(接口):定义功能，只能包含方法(实现),不能包含成员变量，可以被实现若干次。

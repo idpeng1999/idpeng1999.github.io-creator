@@ -2,7 +2,6 @@
 title: "Java多线程原理"
 date: 2021-09-28T16:22:01+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 ## Java多线程原理

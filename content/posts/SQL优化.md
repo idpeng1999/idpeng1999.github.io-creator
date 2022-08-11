@@ -2,7 +2,6 @@
 title: "SQL优化"
 date: 2022-03-21T13:35:30+08:00
 draft: false
-tags: [java]
 categories: [MySQL知识]
 ---
 

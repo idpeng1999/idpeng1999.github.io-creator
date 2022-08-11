@@ -49,14 +49,14 @@ enableEmoji = false
         url = "/posts/"
         title = ""
         weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "标签"
-        url = "/tags/"
-        title = ""
-        weight = 2
+#       [[languages.zh-cn.menu.main]]
+#         identifier = "tags"
+#         pre = ""
+#         post = ""
+#         name = "标签"
+#         url = "/tags/"
+#         title = ""
+#         weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "categories"
         pre = ""
@@ -64,7 +64,7 @@ enableEmoji = false
         name = "分类"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 2
        [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
@@ -72,7 +72,7 @@ enableEmoji = false
         name = ""
         url = "https://github.com/hahaen"
         title = "GitHub"
-        weight = 4
+        weight = 3
     [languages.zh-cn.params]
       # 网站描述
       description = "关于 哈哈博客"

@@ -2,8 +2,7 @@
 title: "Minio"
 date: 2022-06-17T14:57:43+08:00
 draft: false
-tags: [教程]
-categories: [java教程]
+categories: [工具教程]
 ---
 ## docker搭建minio单节点
 

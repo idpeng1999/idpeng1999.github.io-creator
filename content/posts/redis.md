@@ -2,7 +2,6 @@
 title: "Redis"
 date: 2022-03-16T22:05:18+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 

@@ -2,7 +2,6 @@
 title: "Java的参数传递是传值还是传引用？"
 date: 2022-03-10T16:31:49+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 * Java世界中的一切对象都是指针(地址)

@@ -2,8 +2,7 @@
 title: "浅析URL"
 date: 2021-10-29T20:25:40+08:00
 draft: false
-tags: [HTML]
-categories: [html]
+categories: [HTML]
 ---
 ## URL
 

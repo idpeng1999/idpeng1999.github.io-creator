@@ -2,7 +2,6 @@
 title: "Idea启动异常"
 date: 2022-05-29T21:57:42+08:00
 draft: false
-tags: [问题]
 categories: [各种问题]
 ---
 ## 双击bin目录下的idea.bat

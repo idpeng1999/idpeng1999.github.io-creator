@@ -2,7 +2,6 @@
 title: "Git快捷配置"
 date: 2022-05-12T13:34:41+08:00
 draft: false
-tags: [笔记]
 categories: [笔记]
 ---
 ## 查看git快捷配置

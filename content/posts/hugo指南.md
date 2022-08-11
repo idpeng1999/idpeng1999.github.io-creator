@@ -2,7 +2,6 @@
 title: "Hugo指南"
 date: 2022-03-31T17:00:46+08:00
 draft: false
-tags: [笔记]
 categories: [笔记]
 ---
 

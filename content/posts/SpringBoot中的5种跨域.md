@@ -2,7 +2,6 @@
 title: "SpringBoot中的5种跨域"
 date: 2022-04-01T20:30:57+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 ## 为什么会出现跨域问题

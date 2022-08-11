@@ -2,8 +2,7 @@
 title: "HTML常用标签"
 date: 2021-10-28T23:02:29+08:00
 draft: false
-tags: [HTML]
-categories: [html]
+categories: [HTML]
 ---
 ## 搜索技巧：
 [谷歌搜索](https://www.google.com/)<br>

@@ -2,7 +2,6 @@
 title: "Collection体系原理"
 date: 2021-09-11T00:54:11+08:00
 draft: false
-tags: [java]
 categories: [java知识]
 ---
 ## Collection体系的常用类及其背后的数据结构

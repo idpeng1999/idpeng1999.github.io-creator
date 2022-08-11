@@ -2,8 +2,7 @@
 title: "Jacoco使用教程"
 date: 2022-04-10T23:21:11+08:00
 draft: false
-tags: [教程]
-categories: [java教程]
+categories: [工具教程]
 ---
 
 * 在`pom.xml`添加配置
