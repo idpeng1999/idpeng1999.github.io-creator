@@ -2,7 +2,7 @@
 title: "Maven与包"
 date: 2021-09-09T22:57:35+08:00
 draft: false
-categories: [java知识]
+categories: [maven]
 ---
 ## jar
 jar是将很多类文件打包后的一个压缩包,导入 jar 后,可以直接使用里面的类或调用其中的功能。

@@ -2,7 +2,7 @@
 title: "Java程序的运行原理"
 date: 2022-03-10T16:26:18+08:00
 draft: false
-categories: [java知识]
+categories: [JVM]
 ---
 .java --- 编译(compler) --- 字节码(.class) --- JVM
 

@@ -2,7 +2,7 @@
 title: "Maven构建"
 date: 2021-11-21T22:25:41+08:00
 draft: false
-categories: [java知识]
+categories: [maven]
 ---
 
 ## 生命周期(lifecycle)
