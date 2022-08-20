@@ -1,5 +1,5 @@
 ---
-title: "数据库关键字"
+title: "MySQL数据库关键字"
 date: 2022-03-10T21:17:25+08:00
 draft: false
 categories: [MySQL知识]
