@@ -9,6 +9,10 @@ categories: [java知识]
 
 ![设计模式](/img/设计模式（Overview）/img.png)
 
+## Spring中使用到了哪些设计模式？
+
+![Spring设计模式](/img/设计模式（Overview）/img_1.png)
+
 ## 24大设计模式和7个原则
 
 ### 7个原则
