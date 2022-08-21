@@ -4,6 +4,11 @@ date: 2022-06-12T10:44:44+08:00
 draft: false
 categories: [java知识]
 ---
+
+## java常用设计模式
+
+![设计模式](/img/设计模式（Overview）/img.png)
+
 ## 24大设计模式和7个原则
 
 ### 7个原则

@@ -1,8 +1,8 @@
 ---
-title: "Docker Run Mysql映射"
+title: "Mysql Docker版教程"
 date: 2021-11-02T16:35:07+08:00
 draft: false
-categories: [各种问题]
+categories: [工具教程]
 ---
 例：
 

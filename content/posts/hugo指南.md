@@ -2,7 +2,7 @@
 title: "Hugo指南"
 date: 2022-03-31T17:00:46+08:00
 draft: false
-categories: [笔记]
+categories: [教程]
 ---
 
 * 启动hugo服务(预览)
