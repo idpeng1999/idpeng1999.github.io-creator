@@ -23,4 +23,3 @@ hugo -D
 ```
 hugo version
 ```
-
