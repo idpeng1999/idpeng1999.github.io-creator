@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: false
 categories: [java知识]
 ---
+![集合](/img/集合/img.png)
 ## java知识
 ## 工具教程
 ## 前端
