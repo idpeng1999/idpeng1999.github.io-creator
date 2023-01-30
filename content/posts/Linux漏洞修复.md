@@ -2,7 +2,7 @@
 title: "Linux漏洞修复"
 date: 2023-01-30T16:07:19+08:00
 draft: false
-categories: [工具教程]
+categories: [运维]
 ---
 
 ## yum 安装、卸载、升级软件
@@ -25,7 +25,7 @@ categories: [工具教程]
 1. 查看版本: `sudo -V`
 2. 下载升级sudo的版本
 * [sudo下载网址](https://www.sudo.ws/dist/)
-* /img/Linux漏洞修复/sudo-1.9.5p2.tar.gz
+* /zip/Linux漏洞修复/sudo-1.9.5p2.tar.gz
 3. 解压升级sudo的版本: `tar -zxvf sudo-1.9.5p2.tar.gz`
 4. 编译升级sudo的版本: 
 * `cd sudo-1.9.5p2` 

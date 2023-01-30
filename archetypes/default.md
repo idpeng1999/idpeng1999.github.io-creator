@@ -2,6 +2,22 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-categories: [工具教程]
+categories: [java知识]
 ---
-## 内容
+## java知识
+## 工具教程
+## 前端
+## MySQL知识
+## JVM
+## 各种问题
+## 笔记
+## 网络
+## 运维
+## maven
+## 分析
+
+
+
+
+
+
