@@ -2,6 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-categories: [前端]
+categories: [工具教程]
 ---
 ## 内容
