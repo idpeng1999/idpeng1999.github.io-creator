@@ -2,7 +2,7 @@
 title: "Github提交指南"
 date: 2022-03-31T21:21:51+08:00
 draft: false
-categories: [笔记]
+categories: [工具教程]
 ---
 ## 提交指南
 
