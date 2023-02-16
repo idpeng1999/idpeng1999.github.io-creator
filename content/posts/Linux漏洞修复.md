@@ -42,6 +42,8 @@ categories: [运维]
 
 ## 检测到目标URL存在http host头攻击漏洞
 
+[教程链接](https://blog.csdn.net/doulicau/article/details/106685476)
+
 ### nginx修复方式
 
 在 `http { ` 下的 `server {` 里添加  
@@ -72,6 +74,7 @@ categories: [运维]
 * 则修复成功
 
 ![Linux漏洞修复](/img/Linux漏洞修复/1.png)
+
 
 
 
