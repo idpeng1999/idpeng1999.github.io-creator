@@ -57,6 +57,3 @@ jasypt:
 * ENC(密文)
 
 ![使用](/img/jasypt加密密码信息/1.png)
-
-![敏感词过滤](/img/敏感词过滤/1.png)
-
