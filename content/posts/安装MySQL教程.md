@@ -1,5 +1,5 @@
 ---
-title: "Linux安装MySQL教程"
+title: "安装MySQL教程"
 date: 2023-03-29T22:00:48+08:00
 draft: false
 categories: [java知识]
@@ -169,3 +169,40 @@ grant select,insert on leo.* to hahaen;
 6. 查看用户权限 `show grants for hahaen ;`
 7. 更新数据库 `flush privileges;` 所有操作必须执行命令立即生效
 
+
+## 修改root密码的4种方法
+
+[参考](https://blog.csdn.net/qq_33285112/article/details/78982766)
+
+1. 用SET PASSWORD命令 
+```text
+首先登录MySQL。 
+格式：mysql> set password for 用户名@localhost = password(‘新密码’); 
+例子：mysql> set password for root@localhost = password(‘123’);
+```
+2. 用mysqladmin 
+```text
+格式：mysqladmin -u用户名 -p旧密码 password 新密码 
+例子：mysqladmin -uroot -p123456 password 123
+```
+3. 用UPDATE直接编辑user表 
+```text
+首先登录MySQL。 
+mysql> use mysql; 
+mysql> update user set password=password(‘123’) where user=’root’ and host=’localhost’; 
+mysql> flush privileges;
+```
+4. 在忘记root密码的时候，可以这样 
+```text
+以windows为例： 
+1. 关闭正在运行的MySQL服务。 
+2. 打开DOS窗口，转到mysql\bin目录。 
+3. 输入mysqld –skip-grant-tables 回车。–skip-grant-tables 的意思是启动MySQL服务的时候跳过权限表认证。 
+4. 再开一个DOS窗口（因为刚才那个DOS窗口已经不能动了），转到mysql\bin目录。 
+5. 输入mysql回车，如果成功，将出现MySQL提示符 >。 
+6. 连接权限数据库： use mysql; 。 
+6. 改密码：update user set password=password(“123”) where user=”root”;（别忘了最后加分号） 。 
+7. 刷新权限（必须步骤）：flush privileges;　。 
+8. 退出 quit。 
+9. 注销系统，再进入，使用用户名root和刚才设置的新密码123登录。
+```
